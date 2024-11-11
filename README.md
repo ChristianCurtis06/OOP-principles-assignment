@@ -1,0 +1,1 @@
+This repository includes the assignment: OOP Principles in Module 4: Lesson 3 of the Software Engineering Core.
